@@ -1,0 +1,49 @@
+.link2{
+    font-family:'Gill Sans';
+    overflow: hidden;
+    list-style-type: none;
+    padding: 5px;
+    background-color: #000000;
+    border-radius: 19px;
+    
+}
+
+.link3{
+  font-family:'Gill Sans';
+  overflow: hidden;
+  list-style-type: none;
+  padding: 5px;
+  background-color: #366d1f;
+  border-radius: 19px;
+  
+}
+
+.link3 a {
+  text-align: center;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 20px;
+  text-decoration:none;
+}
+
+.link3 a:hover {
+  background-color: #98da7c;
+  color: dark blue;
+}
+
+.link2 a {
+    text-align: center;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
+    text-decoration:none;
+  }
+
+  .link2 a:hover {
+    background-color: #333333;
+    color: dark blue;
+  }

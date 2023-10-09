@@ -1,0 +1,161 @@
+*  {
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: Arial;
+	background-color:#000000; 
+	clear: both; 
+	margin: 0;
+	width: 100%;
+	text-align: left;
+}
+	
+.header{
+	padding: 10px;
+	text-align: center;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	background: white;
+	
+}
+
+	.header h1 {
+		font-size: 50px;
+	}
+
+
+    .leftcolumn {
+      
+        float: left;
+        width: 73.50%;
+    }
+
+
+.rightcolumn {
+	float: left;
+	width: 25%;
+	background-color: #ffffff;
+	padding: 10px;
+	padding-top: 0px;
+	margin-left: 20px;
+	
+
+}
+
+
+.fakeimg {
+	background-color: #aaa;
+	width: 100%;
+	padding: 20px;
+}
+
+
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+.footer {
+	float: left;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+	margin: 0px;
+	font-family:'Gill Sans MT';
+    overflow: hidden;
+    list-style-type: none;
+	padding: 14px 16px;
+    background-color: #0f0f0f;
+	width: 100%;
+}
+
+.banner-text{
+    position: absolute;
+    text-align: center;
+    color: #ffffff;
+    
+}
+
+.banner-text{
+    font-size: 40px;
+    top: 5%;
+    padding-left: 140px;
+    text-transform: uppercase;
+}
+
+
+
+  .botcol {
+	
+	float: left;
+    width: 32.50%;
+	margin-top: 0px;
+	margin-left: 5px;
+	
+}
+
+.middle {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    text-decoration:none;
+	font-family:'Gill Sans MT';
+    list-style-type: none;
+    padding: 20px;
+overflow: hidden;
+    background-color: #000000;
+   	width: 100%;
+	margin-top: 0px;
+  }
+
+  .botbground {
+	width: 100%;
+	  background-color:#f5d29a;
+	  float: left;
+	  display: block;
+	  
+	  text-decoration:none;
+	
+	  overflow: hidden;
+	  list-style-type: none;
+	  padding: 10px;
+	
+  }
+
+  .fonts{
+	color: #000000;
+	font-size: 25px;
+  }
+
+  .fontsright{
+	color: #000000;
+	font-size: 20px;
+  }
+
+  .positionleft{
+	text-align: left;
+  }
+
+  .title{
+	font-size: 25px;
+  }
+
+  .topbground {
+	width: 100%;
+	  background-color:#abc2f4;
+	  float: left;
+	  display: block;
+	
+	  text-decoration:none;
+	  overflow: hidden;
+	  list-style-type: none;
+	  padding: 10px;
+	
+  }

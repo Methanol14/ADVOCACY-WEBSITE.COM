@@ -1,0 +1,33 @@
+.size{
+    width: 102.80%;
+	
+}
+
+.sizeSmall{
+    width: 100%;
+}
+
+.card {
+	
+    padding: 10px;
+    margin-left: 20px;
+	width: 10;
+
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.smallpic{
+	width: 107.30%;
+	
+}
